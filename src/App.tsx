@@ -2,7 +2,7 @@ import { Viewer, SpecialZoomLevel } from "@react-pdf-viewer/core";
 import "./App.css";
 import "@react-pdf-viewer/core/lib/styles/index.css";
 
-import pdf from "./assets/engance.pdf?url";
+import pdf from "./assets/menu.pdf?url";
 
 function App() {
   return (
